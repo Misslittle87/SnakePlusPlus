@@ -7,6 +7,7 @@ public:
 
     void Clear();
     void RenderBorder();
+    void DrawSnake(int x, int y);
 
 private:
     int width;
